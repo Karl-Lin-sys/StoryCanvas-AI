@@ -1,0 +1,6 @@
+{
+  "name": "StoryCanvas AI",
+  "description": "Upload scripts to generate storyboards and collaborate with specialized AI characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
